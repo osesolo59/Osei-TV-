@@ -1,0 +1,9 @@
+{
+  "name": "Osei TV",
+  "description": "A video streaming platform to watch, share, and connect with creators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
